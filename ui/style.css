@@ -9,8 +9,8 @@
     --color-6: #121f2c;
     --color-7: rgb(28, 54, 82);
     --color-8: #2554cc;
-    --color-9: #6E707C;
-    --color-10: #8f741b;
+    --color-9: #1E3955;
+    --color-10: #1b8f25;
 }
 
 body {
@@ -140,7 +140,7 @@ input::-webkit-inner-spin-button {
 .header {
     height: 7vh;
     background-color: var(--color-1);
-    border: 5px solid #393B39;
+    border: 5px solid #152638;
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
     width: 96.5%;
