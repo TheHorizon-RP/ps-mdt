@@ -3549,7 +3549,7 @@ $(document).ready(() => {
           "#8f741b"
         );
         $(".badge-logo").attr("src", "img/sasp_badge.png");
-        $(".header-title").html("SAN ANDREAS STATE POLICE");
+        $(".header-title").html("Los Santos Police Department");
         $(".bolo-nav-item").html("BOLOs");
         $(".bolos-search-title").html("Bolos");
         $("#bolos-search-input").attr("placeholder", "Search Bolo...");
